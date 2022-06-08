@@ -2,4 +2,3 @@ a first line of text
 another line of text
 this is a line with feature x
 this is a line with feature y
-this is a line with feature y
